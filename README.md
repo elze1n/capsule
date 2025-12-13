@@ -10,7 +10,7 @@ The application enhances healthcare accessibility by enabling users to manage co
 
 ## **Project Documentation**
 
-[Documentain Link in word word format](https://docs.google.com/document/d/1lU2Rfzl4VARuovsMo4HoGPQ44OTapYxu/edit?usp=drive_link&ouid=113645691917181137619&rtpof=true&sd=true)
+[Documentain Link in word format](https://docs.google.com/document/d/1lU2Rfzl4VARuovsMo4HoGPQ44OTapYxu/edit?usp=drive_link&ouid=113645691917181137619&rtpof=true&sd=true)
 
 ---
 
