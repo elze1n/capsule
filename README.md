@@ -1,6 +1,6 @@
 # Capsule 
 
-<img alt="Capsule Banner" src="assets/capsule_banner.png" title="Banner" />
+![capsule banner](assets/imgs/capsule_banner.png)
 
 ## Overview
 **Capsule** is a modern Android application designed to simplify doctor–patient interactions by providing an integrated platform for booking appointments, online consultations via chat, and secure electronic prescriptions.  
